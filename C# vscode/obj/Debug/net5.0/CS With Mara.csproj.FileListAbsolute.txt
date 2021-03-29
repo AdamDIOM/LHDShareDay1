@@ -1,0 +1,30 @@
+/Volumes/Files/Files/Computing/MLH/MARCH CHALLENGES/CS With Mara/bin/Debug/net5.0/CS With Mara.deps.json
+/Volumes/Files/Files/Computing/MLH/MARCH CHALLENGES/CS With Mara/bin/Debug/net5.0/CS With Mara.runtimeconfig.json
+/Volumes/Files/Files/Computing/MLH/MARCH CHALLENGES/CS With Mara/bin/Debug/net5.0/CS With Mara.runtimeconfig.dev.json
+/Volumes/Files/Files/Computing/MLH/MARCH CHALLENGES/CS With Mara/bin/Debug/net5.0/CS With Mara.dll
+/Volumes/Files/Files/Computing/MLH/MARCH CHALLENGES/CS With Mara/bin/Debug/net5.0/ref/CS With Mara.dll
+/Volumes/Files/Files/Computing/MLH/MARCH CHALLENGES/CS With Mara/bin/Debug/net5.0/CS With Mara.pdb
+/Volumes/Files/Files/Computing/MLH/MARCH CHALLENGES/CS With Mara/obj/Debug/net5.0/CS With Mara.csprojAssemblyReference.cache
+/Volumes/Files/Files/Computing/MLH/MARCH CHALLENGES/CS With Mara/obj/Debug/net5.0/CS With Mara.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Files/Files/Computing/MLH/MARCH CHALLENGES/CS With Mara/obj/Debug/net5.0/CS With Mara.AssemblyInfoInputs.cache
+/Volumes/Files/Files/Computing/MLH/MARCH CHALLENGES/CS With Mara/obj/Debug/net5.0/CS With Mara.AssemblyInfo.cs
+/Volumes/Files/Files/Computing/MLH/MARCH CHALLENGES/CS With Mara/obj/Debug/net5.0/CS With Mara.csproj.CoreCompileInputs.cache
+/Volumes/Files/Files/Computing/MLH/MARCH CHALLENGES/CS With Mara/obj/Debug/net5.0/CS With Mara.dll
+/Volumes/Files/Files/Computing/MLH/MARCH CHALLENGES/CS With Mara/obj/Debug/net5.0/ref/CS With Mara.dll
+/Volumes/Files/Files/Computing/MLH/MARCH CHALLENGES/CS With Mara/obj/Debug/net5.0/CS With Mara.pdb
+/Volumes/Files/Files/Computing/MLH/MARCH CHALLENGES/CS With Mara/obj/Debug/net5.0/CS With Mara.genruntimeconfig.cache
+/Users/adam/Desktop/day 1/C# vscode/bin/Debug/net5.0/CS With Mara.deps.json
+/Users/adam/Desktop/day 1/C# vscode/bin/Debug/net5.0/CS With Mara.runtimeconfig.json
+/Users/adam/Desktop/day 1/C# vscode/bin/Debug/net5.0/CS With Mara.runtimeconfig.dev.json
+/Users/adam/Desktop/day 1/C# vscode/bin/Debug/net5.0/CS With Mara.dll
+/Users/adam/Desktop/day 1/C# vscode/bin/Debug/net5.0/ref/CS With Mara.dll
+/Users/adam/Desktop/day 1/C# vscode/bin/Debug/net5.0/CS With Mara.pdb
+/Users/adam/Desktop/day 1/C# vscode/obj/Debug/net5.0/CS With Mara.csprojAssemblyReference.cache
+/Users/adam/Desktop/day 1/C# vscode/obj/Debug/net5.0/CS With Mara.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adam/Desktop/day 1/C# vscode/obj/Debug/net5.0/CS With Mara.AssemblyInfoInputs.cache
+/Users/adam/Desktop/day 1/C# vscode/obj/Debug/net5.0/CS With Mara.AssemblyInfo.cs
+/Users/adam/Desktop/day 1/C# vscode/obj/Debug/net5.0/CS With Mara.csproj.CoreCompileInputs.cache
+/Users/adam/Desktop/day 1/C# vscode/obj/Debug/net5.0/CS With Mara.dll
+/Users/adam/Desktop/day 1/C# vscode/obj/Debug/net5.0/ref/CS With Mara.dll
+/Users/adam/Desktop/day 1/C# vscode/obj/Debug/net5.0/CS With Mara.pdb
+/Users/adam/Desktop/day 1/C# vscode/obj/Debug/net5.0/CS With Mara.genruntimeconfig.cache
